@@ -1,0 +1,23 @@
+nstall nano -y
+    6  pwd
+    7  ll
+    8  nano id_rsa.pub
+    9  cat id_rsa.pub
+   10  clear
+   11  ssh root@172.31.86.231
+   12  ll
+   13  cd ~
+   14  cd mkdir -p /opt/DevOps && cd /opt/DevOps
+   15  cd /opt/
+   16  ll
+   17  mkdir DevOps
+   18  rm DevOps/
+   19  rm -d DevOps/
+   20  mkdir -p DevOps
+   21  cd DevOps/
+   22  git init
+   23  yum istall git -y
+   24  yum install git -y
+   25  git init
+   26  history
+
