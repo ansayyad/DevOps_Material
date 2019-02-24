@@ -1,0 +1,10 @@
+   22  git init===To Initialized the directory as a local repo.
+   24  yum install git -y---To Install Git RPM using yum command
+   29  git status--
+   30  git add Linuxcommands.txt---add your all files to local repository commit area
+   31  git status
+   32  git commit -m"My First Commit"---to commit to repository area of git
+   33  git status--to check the status if any file is untracked or non commited
+   34  git remote add origin https://github.com/ansayyad/DevOps_Material.git---connect with github remotely
+   35  git push -u origin master----to add the file to github
+
